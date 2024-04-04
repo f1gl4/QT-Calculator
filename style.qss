@@ -1,0 +1,26 @@
+QPushButton
+{
+    background: #a8a3a3;
+    border: ridge;
+    border-width: 1px;
+    height: 70px;
+    width: 70px;
+}
+
+QPushButton#orange
+{
+    background: orange;
+}
+
+QPushButton#white
+{
+    background: #dbd3d3;
+}
+
+QLineEdit
+{
+    background: #292323;
+    font-size: 30px;
+    color: white;
+    height: 50px;
+}
